@@ -45,15 +45,15 @@ portfolio/
 ## 🧪 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/samairakandalkar/portfoli.git
+```bash
+git clone https://github.com/samairakandalkar/portfoli.git
 ````
 
 2. Navigate to the folder:
 
-   ```bash
-   cd portfolio
-   ```
+```bash
+cd portfolio
+```
 
 3. Open `index.html` in your browser.
 
