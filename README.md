@@ -1,2 +1,1 @@
-# -portfolio
-portfolio-website | Samairakandalkar
+# portfolio-website | Samairakandalkar
