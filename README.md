@@ -8,7 +8,9 @@ I'm **Samaira Kandalkar**, a Computer Science student passionate about coding, U
 
 This portfolio serves as a snapshot of my journey, interests, and the skills I am building along the way.
 
----
+## 🖼️ Screenshot
+Here’s a preview of the website:
+![Website Screenshot](screenshot.png)
 
 ## 📁 Project Structure
 
@@ -21,8 +23,6 @@ portfolio/
 └── assets/             # (Optional) Folder for images, icons, etc.
 
 ````
-
----
 
 ## 🚀 Features
 
